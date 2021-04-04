@@ -1,0 +1,15 @@
+{
+  "name": "demoslide4",
+  "version": "1.0.0",
+  "description": "de mo thoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "ThanhNQ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1"
+  }
+}
