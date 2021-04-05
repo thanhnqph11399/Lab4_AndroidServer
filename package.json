@@ -4,7 +4,8 @@
   "description": "de mo thoi",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "test": "node index",
+    "start": "node index.js"
   },
   "author": "ThanhNQ",
   "license": "ISC",
